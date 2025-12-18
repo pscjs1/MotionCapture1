@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="round_button_color">#57bc43</color>
+    <color name="round_gradient_button_color_start">#DC2424</color>
+    <color name="round_gradient_button_color_end">#4A569D</color>
+    <color name="progress_bar_color">#438ebc</color>
+</resources>

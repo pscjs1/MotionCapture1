@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MotionCapture" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Custamisation of personal theme here -->
+        <item name="colorPrimary" type="color">@color/colorPrimary</item>
+        <item name="colorPrimaryDark" type="color">@color/colorPrimaryDark</item>
+        <item name="colorAccent" type="color">@color/colorAccent</item>
+    </style>
+
+</resources>

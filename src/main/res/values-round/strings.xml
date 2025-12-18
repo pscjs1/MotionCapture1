@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="hello_world">From the Round world,\nHello, %1$s!</string>
+
+    <string-array name="activitiesNames" tools:ignore="ExtraTranslation">
+        <item>Smoking</item>
+        <item>Vaping</item>
+        <item>Drinking</item>
+        <item>Eating</item>
+    </string-array>
+
+</resources>
